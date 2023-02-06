@@ -5,33 +5,49 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Northern Lead Data</title>
+  <title>Northern Lead Information</title>
   <meta name="description" content="Information for Northern Lead members">
   <meta name="author" content="Sahil">
 
   <meta property="og:title" content="Northern Lead Information">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="">
-  <meta property="og:description" content="Northern Lead Information">
+  <meta property="og:url" content="https://nlead.pages.dev">
+  <meta property="og:description" content="Northern Lead Information sharing page.">
   <meta property="og:image" content="">
 
   <link rel="icon" href="">
   <link rel="icon" href="" type="image/svg+xml">
   <link rel="" href="/apple-touch-icon.png">
 
-  <link rel="stylesheet" href="">
+  <link rel="stylesheet" href="./css/main.css">
 
 </head>
   
 <body>
-  <h1>Northern Lead</h1>
-  <ul>
-    <li><a href="research_calls.html">Research Calls</a></li>
-    <li><a href="research_conf.html">Conference Calls</a></li>
-    <li><a href="seminar_webinar.html">Seminars</a></li>
-    <li><a href="special_issues.html">Special Paper Calls</a></li>
+  <header class="site-header">
+    <div class="site-identity">
+      <a href="index.html"><img src="images/Northern LEAD vektor.gif" alt="Northern Lead Logo" width="100"></a>
+    </div>  
+    <nav class="site-navigation">
+      <ul class="nav">
+        <li><a class="nav" href="https://www.chalmers.se/en/centres/northernlead/">About</a></li> 
+        <li><a class="nav" href="#">Contact</a></li> 
+      </ul>
+    </nav>
+  </header>
+
+  <ul class="site-links">
+    <li class="site-links"><a href="research_calls.html">Research Calls</a></li>
+    <li class="site-links"><a href="research_conf.html">Conference Calls</a></li>
+    <li class="site-links"><a href="seminar_webinar.html">Seminars</a></li>
+    <li class="site-links"><a href="special_issues.html">Special Paper Calls</a></li>
   </ul>
   
-  <script src=""></script>
+  <p id="updated_date" class="footer"></p>
+
+  <script src="data/updated_date.js"></script>
+  <script>
+    document.getElementById("updated_date").innerHTML = "Last Updated on " + updated_date;
+  </script>
 </body>
 </html>
