@@ -4,8 +4,7 @@ body {
     max-width: 800px;
     margin: 10px auto;
   }
-  a {
-    text-decoration: none;
+  a.nav {
     color: #000;
   }
   .site-header { 
@@ -31,4 +30,15 @@ body {
   .site-navigation li {
     display: inline-block;
     margin: 1.0em 1em 0em 1em;
+  }
+
+  ul.site-links {
+    display: table;
+    list-style-type: none;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  li.site-links {
+    margin: 20px;
   }
