@@ -14,6 +14,8 @@ var dataSet = [
 [
  'Vinnov FFI', 'Transport and mobility services', '2023/03/28', '', '<a href="https://www.vinnova.se/e/transport-och-mobilitetstjanster-ffi/transport-och-mobilitetstjanster-2022-02746/" target="_blank">Link</a>', '' ],
 [
+ 'TripleF', 'Triple F:s utlysning för strategiska projekt', '2023/03/31', '', '<a href="https://triplef.lindholmen.se/nyheter/triple-fs-utlysning-strategiska-projekt-nu-oppen" target="_blank">Link</a>', '' ],
+[
  'Vinnova -  InfraSweden', 'Solutions for faster transition to sustainable transport infrastructure', '2023/03/02', '', '<a href="https://www.vinnova.se/en/calls-for-proposals/strategic-innovation-programme-infrasweden2030/sip-infrasweden--autumn-2022-adapting-2022-01840/" target="_blank">Link</a>', '' ],
 [
  'Swedish Electromobility Centre', 'Projects Spring 2023', '2023/03/31', 'A wide range of themes on electromobility', '<a href="https://emobilitycentre.se/call-for-projects-spring-2023/" target="_blank">Link</a>', '' ],

@@ -20,7 +20,11 @@ var dataSet = [
 [
  'Initiative seminar AoA Transport', 'Göteborg', '2023/02/09', '<a href="" target="_blank">Link</a>', '' ],
 [
+ 'Aster - Modellering av fastighetshetsnära godstransporter', 'Online', '2023/02/09', '<a href="https://aster.lindholmen.se/sv/event/sluttraff-modellering-av-fastighetshetsnara-godstransporter" target="_blank">Link</a>', '10.00-12.00' ],
+[
  'RTR Conference 2023', 'Brussels', '2023-02-14/16', '<a href="https://www.polisnetwork.eu/event/rtr-conference-2023/" target="_blank">Link</a>', '' ],
+[
+ 'Informationsmöte kring Triple F:s utlysning för strategiska projekt', 'Online', '2023/02/17', '<a href="https://triplef.lindholmen.se/event/informationstraff-om-triple-fs-utlysning-strategiska-projekt" target="_blank">Link</a>', '13.00-13.45' ],
 [
  'Grön innovation, Politik och framtid - svensk sjöfart', 'Online', '2023/02/17', '<a href="https://www.sweship.se/event/webinarserie-om-gron-innovation-20-januari-17-februari/" target="_blank">Link</a>', '' ],
 [
