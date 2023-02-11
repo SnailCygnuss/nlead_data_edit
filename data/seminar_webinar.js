@@ -32,6 +32,10 @@ var dataSet = [
 [
  'EARPA Spring meetings', 'Brussels', '2023-03-07/08', '<a href="" target="_blank">Link</a>', '' ],
 [
+ 'Västsvenska handelskammaren -  Vattenfalls vd om svensk elförsörjning', 'Göeborg + Online', '2023/03/09', '<a href="https://www.vastsvenskahandelskammaren.se/kalender/vattenfalls-vd-om-svensk-energiforsorjning-9-mars-2023/" target="_blank">Link</a>', '11.30 - 13.15' ],
+[
+ 'Västsvenska handelskammaren -  Säkra dina värdekedjor', 'Göeborg + Online', '2023/03/16', '<a href="https://www.vastsvenskahandelskammaren.se/kalender/sakra-dina-vardekedjor-16-mars-2023/" target="_blank">Link</a>', '08.00 - 10.00' ],
+[
  'Drive Sweden forum', 'Online', '2023/03/16', '<a href="https://www.drivesweden.net/event/drive-sweden-forum-3" target="_blank">Link</a>', '09.00-16.00' ],
 [
  'Sweden Innovation Days', 'Online', '2023-03-21/23', '<a href="https://swedeninnovationdays.se" target="_blank">Link</a>', '' ],
