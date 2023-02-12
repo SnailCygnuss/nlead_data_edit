@@ -1,10 +1,6 @@
 var dataSet = [
 [
- 'Supply Chain Management', 'Emerald', 'The interplay between new innovations, sustainability and food supply chains', '2023/01/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/interplay-between-new-innovations-sustainability-and-food-supply-chains" target="_blank">Link</a>', '2022/12/17', '' ],
-[
  'Journal of Cleaner Production', 'Elsevier', 'Supply chain planning & management challenges and opportunities driven by climate change and other disruptions and how to accelerate societal transition to equitable, sustainable and livable societies', '2023/02/15', '<a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production/about/call-for-papers" target="_blank">Link</a>', '', '' ],
-[
- 'International Journal of Logistics Management', 'Emerald', 'Climate Neutral Supply Chains', '2023/02/16', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/climate-neutral-supply-chains" target="_blank">Link</a>', '2022/10/05', '' ],
 [
  'Business Process Management Journal', 'Emerald', 'Entrepreneurial motivation in business processes', '2023/02/21', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
 [
@@ -17,6 +13,8 @@ var dataSet = [
  'Multimodal transportation', 'Elsevier', 'Frontier Technologies in Transportation and Logistics System Analysis', '2023/03/01', '<a href="https://www.journals.elsevier.com/multimodal-transportation/call-for-papers/the-4th-international-symposium-on-multimodal-transportation-frontier-technologies-in-transportation-and-logistics-system-analysis?_gl=1*tgexwi*_ga*NTQ2NzI0NTkuMTY3MTMwNDkxOQ..*_ga_4R527DM8F7*MTY3MTMwNDkxOC4xLjAuMTY3MTMwNDkxOC4wLjAuMA.." target="_blank">Link</a>', '2022/12/18', '' ],
 [
  'International Journal of Production Research', 'Taylor & Francis', 'Artificial Intelligence Applications in Healthcare Supply Chain Networks under Disaster Conditions', '2023/03/10', '<a href="https://www.callforpapers.co.uk/artificial-intelligence-healthcare-supplychain" target="_blank">Link</a>', '2022/09/26', '' ],
+[
+ 'International Journal of Logistics Management', 'Emerald', 'Climate Neutral Supply Chains', '2023/03/16', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/climate-neutral-supply-chains" target="_blank">Link</a>', '2022/10/05', '' ],
 [
  'Business Process Management Journal', 'Emerald', 'Digital transformation of human resource management: Current status, perspectives, challenges, and opportunities', '2023/03/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
 [
