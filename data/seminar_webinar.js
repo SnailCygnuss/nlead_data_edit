@@ -6,6 +6,8 @@ var dataSet = [
 [
  'Grön innovation, Politik och framtid - svensk sjöfart', 'Online', '2023/02/17', '<a href="https://www.sweship.se/event/webinarserie-om-gron-innovation-20-januari-17-februari/" target="_blank">Link</a>', '' ],
 [
+ 'Drive Sweden Lunch & Learn: Så interagerar Drive Sweden med den europeiska arenan avseende uppkopplad och automatiserad mobilitet', 'Online', '2023/02/24', '<a href="https://sv-se.invajo.com/event/drivesweden/driveswedenlunchlearnsainteragerardriveswedenmeddeneuropeiskaarenanavseendeuppkoppladochautomatiseradmobilitet///invite?utm_campaign=unresponded_guests_reminder&utm_source=email&utm_medium=email" target="_blank">Link</a>', '12.00 - 13.00' ],
+[
  'CMB frukostseminarium - Fokusera på transporterna TILL byggplatsen', 'Göteborg', '2023/03/03', '<a href="https://www.cmb-chalmers.se/aktivitet/forskarnas-tips-for-att-na-effektivitets-och-miljomal-fokusera-pa-transporterna-till-byggplatsen/" target="_blank">Link</a>', '08.00-09.00' ],
 [
  'EARPA Spring meetings', 'Brussels', '2023/03/07', '<a href="https://www.earpa.eu/earpa/17/events.html" target="_blank">Link</a>', '7-8 March' ],
