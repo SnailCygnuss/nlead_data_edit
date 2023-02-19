@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Journal of Cleaner Production', 'Elsevier', 'Supply chain planning & management challenges and opportunities driven by climate change and other disruptions and how to accelerate societal transition to equitable, sustainable and livable societies', '2023/02/15', '<a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production/about/call-for-papers" target="_blank">Link</a>', '', '' ],
-[
  'Business Process Management Journal', 'Emerald', 'Entrepreneurial motivation in business processes', '2023/02/21', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
 [
  'International Journal of Computer Integrated Manufacturing​', 'Taylor & Francis', 'Digital Twins for Smart Production and Logistics', '2023/02/28', '<a href="https://www.callforpapers.co.uk/digital-twin-smart-production-logistics" target="_blank">Link</a>', '2022/06/23', 'Extended deadline' ],

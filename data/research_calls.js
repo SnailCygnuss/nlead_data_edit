@@ -1,13 +1,5 @@
 var dataSet = [
 [
- 'Energimyndigheten', 'Bidra till framtidens batterier inom fordon, elsystem och återvinningslösningar', '2023/01/31', '', '<a href="https://www.energimyndigheten.se/utlysningar/vill-du-bidra-till-framtidens-batterier-inom-fordon-elsystem-och-atervinningslosningar/" target="_blank">Link</a>', '' ],
-[
- 'Energimyndigheten', 'Bidra med design och beteendevetenskap till ett resurseffektivt samhälle', '2023/02/01', '', '<a href="https://www.energimyndigheten.se/utlysningar/bidra-med-design-och-beteendevetenskap-till-ett-resurseffektivt-samhalle/" target="_blank">Link</a>', '' ],
-[
- 'Vinnova -  InfraSweden', 'Anpassning av transportinfrastrukturen för att möta klimatförändringar', '2023/02/02', '', '<a href="https://www.vinnova.se/e/strategiska-innovationsprogrammet-infrasweden2030/sip-infrasweden--hosten-2022-2022-01840/" target="_blank">Link</a>', '' ],
-[
- 'Energimyndigheten - SIP ReSource', 'Cirkulär ekonomi och resursanvändning inom planetens gränser', '2023/02/14', 'Utlysningen riktar sig till forsknings- och innovationsprojekt som vill utveckla ekonomiskt gångbara lösningar som bidrar till mer hållbar resursanvändning och en mer cirkulär ekonomi.', '<a href="https://resource-sip.se/projektfinansiering/cirkular-ekonomi-och-resursanvandning-inom-planetens-granser-2023/" target="_blank">Link</a>', '' ],
-[
  'CMB', '', '2023/02/20', '', '<a href="https://www.cmb-chalmers.se/kunskapskultivering/forskningsfinansiering/" target="_blank">Link</a>', '' ],
 [
  'Vinnova -  InfraSweden', 'Solutions for faster transition to sustainable transport infrastructure', '2023/03/02', '', '<a href="https://www.vinnova.se/en/calls-for-proposals/strategic-innovation-programme-infrasweden2030/sip-infrasweden--autumn-2022-adapting-2022-01840/" target="_blank">Link</a>', '' ],

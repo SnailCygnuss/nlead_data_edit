@@ -1,10 +1,6 @@
 var dataSet = [
 [
- 'RTR Conference 2023', 'Brussels', '2023/02/14', '<a href="https://www.polisnetwork.eu/event/rtr-conference-2023/" target="_blank">Link</a>', '14–16 Feb' ],
-[
- 'Informationsmöte kring Triple F:s utlysning för strategiska projekt', 'Online', '2023/02/17', '<a href="https://triplef.lindholmen.se/event/informationstraff-om-triple-fs-utlysning-strategiska-projekt" target="_blank">Link</a>', '13.00-13.45' ],
-[
- 'Grön innovation, Politik och framtid - svensk sjöfart', 'Online', '2023/02/17', '<a href="https://www.sweship.se/event/webinarserie-om-gron-innovation-20-januari-17-februari/" target="_blank">Link</a>', '' ],
+ 'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023-04-11/12', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '' ],
 [
  'Drive Sweden Lunch & Learn: Så interagerar Drive Sweden med den europeiska arenan avseende uppkopplad och automatiserad mobilitet', 'Online', '2023/02/24', '<a href="https://sv-se.invajo.com/event/drivesweden/driveswedenlunchlearnsainteragerardriveswedenmeddeneuropeiskaarenanavseendeuppkoppladochautomatiseradmobilitet///invite?utm_campaign=unresponded_guests_reminder&utm_source=email&utm_medium=email" target="_blank">Link</a>', '12.00 - 13.00' ],
 [
