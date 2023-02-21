@@ -49,3 +49,7 @@ body {
   p.footer {
     text-align: center;
   }
+
+  span.spamprotection {
+    display:none;
+  }
