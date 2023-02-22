@@ -6,7 +6,7 @@ var dataSet = [
 [
  'The night deliveries pilot project in São Paulo: Lessons learned from a practitioner point of view', 'Online', '2023/03/03', '<a href="https://www.mobilitynetwork.utoronto.ca/event/hugo-yoshizaki/" target="_blank">Link</a>', '11:00 am-12:00 EST time. No registration required' ],
 [
- 'Licentiate seminar by Juan Pablo Castrellon', 'Chalmers +  online', '2023/03/03', '<a href="" target="_blank">Link</a>', '13.15' ],
+ 'Licentiate seminar by Juan Pablo Castrellon', 'Chalmers +  online', '2023/03/03', '<a href="https://chalmers.zoom.us/j/61899849155" target="_blank">Link</a>', '13.15' ],
 [
  'CMB frukostseminarium - Fokusera på transporterna TILL byggplatsen', 'Göteborg', '2023/03/03', '<a href="https://www.cmb-chalmers.se/aktivitet/forskarnas-tips-for-att-na-effektivitets-och-miljomal-fokusera-pa-transporterna-till-byggplatsen/" target="_blank">Link</a>', '08.00-09.00' ],
 [
