@@ -1,6 +1,6 @@
 var dataSet = [
 [
- 'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023-04-11/12', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '' ],
+ 'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April 2023' ],
 [
  'Drive Sweden Lunch & Learn: Så interagerar Drive Sweden med den europeiska arenan avseende uppkopplad och automatiserad mobilitet', 'Online', '2023/02/24', '<a href="https://sv-se.invajo.com/event/drivesweden/driveswedenlunchlearnsainteragerardriveswedenmeddeneuropeiskaarenanavseendeuppkoppladochautomatiseradmobilitet///invite?utm_campaign=unresponded_guests_reminder&utm_source=email&utm_medium=email" target="_blank">Link</a>', '12.00 - 13.00' ],
 [
