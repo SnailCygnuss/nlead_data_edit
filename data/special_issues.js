@@ -1,13 +1,5 @@
 var dataSet = [
 [
- 'International Journal of Computer Integrated Manufacturing​', 'Taylor & Francis', 'Digital Twins for Smart Production and Logistics', '2023/02/28', '<a href="https://www.callforpapers.co.uk/digital-twin-smart-production-logistics" target="_blank">Link</a>', '2022/06/23', 'Extended deadline' ],
-[
- 'International Journal of Production Research', 'Taylor & Francis', 'Production Optimization in Carbon Reduction Engineering Management', '2023/02/28', '<a href="https://think.taylorandfrancis.com/special_issues/international-journal-production-research/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Link</a>', '2022/09/26', '' ],
-[
- 'Journal of Enterprise Information Management', 'Emerald', 'Digital Resilience, New Business Models and International Entrepreneurship in the Era of Knowledge-Economy', '2023/02/28', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-resilience-new-business-models-and-international-entrepreneurship-era" target="_blank">Link</a>', '2022/10/05', '' ],
-[
- 'Multimodal transportation', 'Elsevier', 'Frontier Technologies in Transportation and Logistics System Analysis', '2023/03/01', '<a href="https://www.journals.elsevier.com/multimodal-transportation/call-for-papers/the-4th-international-symposium-on-multimodal-transportation-frontier-technologies-in-transportation-and-logistics-system-analysis?_gl=1*tgexwi*_ga*NTQ2NzI0NTkuMTY3MTMwNDkxOQ..*_ga_4R527DM8F7*MTY3MTMwNDkxOC4xLjAuMTY3MTMwNDkxOC4wLjAuMA.." target="_blank">Link</a>', '2022/12/18', '' ],
-[
  'International Journal of Production Research', 'Taylor & Francis', 'Artificial Intelligence Applications in Healthcare Supply Chain Networks under Disaster Conditions', '2023/03/10', '<a href="https://www.callforpapers.co.uk/artificial-intelligence-healthcare-supplychain" target="_blank">Link</a>', '2022/09/26', '' ],
 [
  'International Journal of Logistics Management', 'Emerald', 'Climate Neutral Supply Chains', '2023/03/16', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/climate-neutral-supply-chains" target="_blank">Link</a>', '2022/10/05', '' ],
