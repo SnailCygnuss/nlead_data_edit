@@ -53,14 +53,22 @@ body {
     padding: 20px;
   }
 
-  p.intro {
+table {
+  max-width: 700px;
+}
+
+th, td {
+  padding: 10px;
+}
+
+p.intro {
     max-width: 700px;
-  }
+}
 
-  p.footer {
+p.footer {
     text-align: center;
-  }
+}
 
-  span.spamprotection {
+span.spamprotection {
     display:none;
-  }
+}
