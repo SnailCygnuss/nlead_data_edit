@@ -46,10 +46,32 @@ body {
     margin: 20px;
   }
 
-  p.footer {
-    text-align: center;
+  .intro-para {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
   }
 
-  span.spamprotection {
+.links {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.links2 {
+  padding: 10px;
+  margin: 10px;
+  flex: 200px;
+}
+
+p.intro {
+    max-width: 700px;
+}
+
+p.footer {
+    text-align: center;
+}
+
+span.spamprotection {
     display:none;
-  }
+}
