@@ -2,14 +2,6 @@ var dataSet = [
 [
  'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April 2023' ],
 [
- 'The night deliveries pilot project in São Paulo: Lessons learned from a practitioner point of view', 'Online', '2023/03/03', '<a href="https://www.mobilitynetwork.utoronto.ca/event/hugo-yoshizaki/" target="_blank">Link</a>', '11:00 am-12:00 EST time. No registration required' ],
-[
- '[POLIS - ALICE] Webinar Consumer Engagement: Provision Consistent Information on Sustainability', 'Online', '2023/03/03', '<a href="https://meet.goto.com/697547781" target="_blank">Link</a>', '10:00-11:00' ],
-[
- 'Licentiate seminar by Juan Pablo Castrellon', 'Chalmers +  online', '2023/03/03', '<a href="https://chalmers.zoom.us/j/61899849155" target="_blank">Link</a>', '13.15' ],
-[
- 'CMB frukostseminarium - Fokusera på transporterna TILL byggplatsen', 'Göteborg', '2023/03/03', '<a href="https://www.cmb-chalmers.se/aktivitet/forskarnas-tips-for-att-na-effektivitets-och-miljomal-fokusera-pa-transporterna-till-byggplatsen/" target="_blank">Link</a>', '08.00-09.00' ],
-[
  'Digital utveckling för hållbara godstransporter', 'Online', '2023/03/07', '<a href="https://sv-se.invajo.com/event/closer/digitalutvecklingforhallbaragodstransporter///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '14.00-16.00' ],
 [
  'EARPA Spring meetings', 'Brussels', '2023/03/07', '<a href="https://www.earpa.eu/earpa/17/events.html" target="_blank">Link</a>', '7-8 March' ],

@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Vinnova -  InfraSweden', 'Solutions for faster transition to sustainable transport infrastructure', '2023/03/02', '', '<a href="https://www.vinnova.se/en/calls-for-proposals/strategic-innovation-programme-infrasweden2030/sip-infrasweden--autumn-2022-adapting-2022-01840/" target="_blank">Link</a>', '' ],
-[
  'Trafikverket', 'Forsknings- och innovationsförslag', '2023/03/15', '', '<a href="https://bransch.trafikverket.se/for-dig-i-branschen/forskning-och-innovation/lamna-forslag-pa-forskning/" target="_blank">Link</a>', '' ],
 [
  'Vinnov FFI', 'Circularity', '2023/03/28', '', '<a href="https://www.vinnova.se/e/utlysning-2022-00048/cirkularitet-ffi-varen-2023/" target="_blank">Link</a>', '' ],
