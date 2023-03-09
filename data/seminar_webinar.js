@@ -1,12 +1,8 @@
 var dataSet = [
 [
- 'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April 2023' ],
+ 'Making packaging more sustainable: Effects of resource embeddedness', 'Chalmers +  online', '2023/03/28', '<a href="https://www.chalmers.se/en/current/calendar/tme-licentiate-seminar-sandra-brueel-gronberg/" target="_blank">Link</a>', '' ],
 [
- 'Digital utveckling för hållbara godstransporter', 'Online', '2023/03/07', '<a href="https://sv-se.invajo.com/event/closer/digitalutvecklingforhallbaragodstransporter///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '14.00-16.00' ],
-[
- 'EARPA Spring meetings', 'Brussels', '2023/03/07', '<a href="https://www.earpa.eu/earpa/17/events.html" target="_blank">Link</a>', '7-8 March' ],
-[
- 'Västsvenska handelskammaren -  Vattenfalls vd om svensk elförsörjning', 'Göeborg + Online', '2023/03/09', '<a href="https://www.vastsvenskahandelskammaren.se/kalender/vattenfalls-vd-om-svensk-energiforsorjning-9-mars-2023/" target="_blank">Link</a>', '11.30 - 13.15' ],
+ 'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023-04-11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11-12 April 2023' ],
 [
  'RP seminar by Tayana Ortix Lopes', 'Chalmers', '2023/03/10', '<a href="" target="_blank">Link</a>', '13.15' ],
 [
