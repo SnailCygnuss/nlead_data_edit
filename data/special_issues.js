@@ -2,8 +2,6 @@ var dataSet = [
 [
  'Journal of Retailing and Consumer Services', 'Elsevier', 'Designing Retail and Consumer Services for a Positive Societal and Citizenship Impact', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services/about/call-for-papers" target="_blank">Link</a>', '2022/11/01', '' ],
 [
- 'International Journal of Production Research', 'Taylor & Francis', 'Artificial Intelligence Applications in Healthcare Supply Chain Networks under Disaster Conditions', '2023/03/10', '<a href="https://www.callforpapers.co.uk/artificial-intelligence-healthcare-supplychain" target="_blank">Link</a>', '2022/09/26', '' ],
-[
  'International Journal of Logistics Management', 'Emerald', 'Climate Neutral Supply Chains', '2023/03/16', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/climate-neutral-supply-chains" target="_blank">Link</a>', '2022/10/05', '' ],
 [
  'Business Process Management Journal', 'Emerald', 'Digital transformation of human resource management: Current status, perspectives, challenges, and opportunities', '2023/03/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
