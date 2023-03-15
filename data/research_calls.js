@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Trafikverket', 'Forsknings- och innovationsförslag', '2023/03/15', '', '<a href="https://bransch.trafikverket.se/for-dig-i-branschen/forskning-och-innovation/lamna-forslag-pa-forskning/" target="_blank">Link</a>', '' ],
-[
  'Vinnov FFI', 'Circularity', '2023/03/28', '', '<a href="https://www.vinnova.se/e/utlysning-2022-00048/cirkularitet-ffi-varen-2023/" target="_blank">Link</a>', '' ],
 [
  'Vinnov FFI', 'Transport and mobility services', '2023/03/28', '', '<a href="https://www.vinnova.se/e/transport-och-mobilitetstjanster-ffi/transport-och-mobilitetstjanster-2022-02746/" target="_blank">Link</a>', '' ],

@@ -1,6 +1,6 @@
 var dataSet = [
 [
- '10th International Maritime Science Conference', 'Solin, croatia', '2023/05/08', '2022/11/15', '<a href="https://imsc.pfst.hr/" target="_blank">Link</a>', '8–9 May' ],
+ '10th International Maritime Science Conference', 'Solin, croatia', '2023/05/08', '2022/11/15', '<a href="https://imsc.pfst.hr/" target="_blank">Link</a>', '8–9 May 2023' ],
 [
  'International Physical Conference', 'Athens, Greece', '2023/06/13', '2023/02/08', '<a href="https://www.pi.events/IPIC2023/call-for-contributions" target="_blank">Link</a>', '' ],
 [
@@ -12,7 +12,7 @@ var dataSet = [
 [
  '10th Euroma Sustainable Operations and Supply Chains Forum', 'Hamburg, Germany', '2023/03/20', '2022/10/30', '<a href="https://euroma-sustainabilityforum.org" target="_blank">Link</a>', '20–23 March 2023' ],
 [
- '6th Interdisciplinary Conference on Production, Logistics and Traffic (ICPLT)', 'Dortmund, Germany', '2023/03/21', '2022/07/31', '<a href="https://itl.mb.tu-dortmund.de/veranstaltungsdetail/icplt-6th-interdisciplinary-conference-on-production-logistics-and-traffic-8942/" target="_blank">Link</a>', '21–22 March' ],
+ '6th Interdisciplinary Conference on Production, Logistics and Traffic (ICPLT)', 'Dortmund, Germany', '2023/03/21', '2022/07/31', '<a href="https://itl.mb.tu-dortmund.de/veranstaltungsdetail/icplt-6th-interdisciplinary-conference-on-production-logistics-and-traffic-8942/" target="_blank">Link</a>', '21–22 March 2023' ],
 [
  'IPSERA 2023', 'Barcelona', '2023/04/02', '2022/12/16', '<a href="https://ipsera2023.com" target="_blank">Link</a>', '2-5 May 2023' ],
 [
