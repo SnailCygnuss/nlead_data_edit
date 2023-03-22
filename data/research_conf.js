@@ -10,10 +10,6 @@ var dataSet = [
 [
  'the 25th International Transport and Air Pollution and 3rd Shipping and Environment Conference​ (TAP&SE)', 'Gothenburg, Sweden', '2023/09/25', '2022/02/24', '<a href="https://www.ivl.se/english/ivl/project/joint-tap-and-se-conference.html" target="_blank">Link</a>', '' ],
 [
- '10th Euroma Sustainable Operations and Supply Chains Forum', 'Hamburg, Germany', '2023/03/20', '2022/10/30', '<a href="https://euroma-sustainabilityforum.org" target="_blank">Link</a>', '20–23 March 2023' ],
-[
- '6th Interdisciplinary Conference on Production, Logistics and Traffic (ICPLT)', 'Dortmund, Germany', '2023/03/21', '2022/07/31', '<a href="https://itl.mb.tu-dortmund.de/veranstaltungsdetail/icplt-6th-interdisciplinary-conference-on-production-logistics-and-traffic-8942/" target="_blank">Link</a>', '21–22 March 2023' ],
-[
  'IPSERA 2023', 'Barcelona', '2023/04/02', '2022/12/16', '<a href="https://ipsera2023.com" target="_blank">Link</a>', '2-5 May 2023' ],
 [
  'ITS European Conference', 'Lisbon, Portugal', '2023/05/22', '2023/01/20', '<a href="https://itseuropeancongress.com" target="_blank">Link</a>', '' ],

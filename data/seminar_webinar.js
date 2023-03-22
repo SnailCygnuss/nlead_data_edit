@@ -4,16 +4,6 @@ var dataSet = [
 [
  'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April' ],
 [
- 'Västsvenska handelskammaren -  Säkra dina värdekedjor', 'Göeborg + Online', '2023/03/16', '<a href="https://www.vastsvenskahandelskammaren.se/kalender/sakra-dina-vardekedjor-16-mars-2023/" target="_blank">Link</a>', '08.00 - 10.00' ],
-[
- 'Drive Sweden forum', 'Online', '2023/03/16', '<a href="https://www.drivesweden.net/event/drive-sweden-forum-3" target="_blank">Link</a>', '09.00-16.00' ],
-[
- 'Webinar: Reimagining fulfilment and last-mile delivery', 'Online', '2023/03/21', '<a href="https://handel.lu.se/kalendarium/webinar-reimagining-fulfilment-and-last-mile-delivery" target="_blank">Link</a>', '13:00-14:30' ],
-[
- 'Förpackningens roll i hållbar och effektiv varudistribution - Kajsa and Sandra presents their project with Handelsrådet', 'Hendels Gbg', '2023/03/21', '<a href="https://handelsradet.se/aktiviteter/forskarseminarium-i-goteborg/" target="_blank">Link</a>', '08.00-09.30' ],
-[
- 'Sweden Innovation Days', 'Online', '2023/03/21', '<a href="https://swedeninnovationdays.se" target="_blank">Link</a>', '21-23 March' ],
-[
  'Net Zero in 2023 and beyond', 'Online', '2023/03/23', '<a href="https://www.eventbrite.com/e/net-zero-in-2023-and-beyond-tickets-518576374897" target="_blank">Link</a>', '12.00 GMT. Duration 1 hour. Alan McKinnon among the speakers.' ],
 [
  'Closer årskonferens', 'Göteborg, Stockholm, Online', '2023/03/28', '<a href="https://sv-se.invajo.com/event/closer/closerÅrskonferensÅrsmÖte2023///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '09.00-13.00' ],
@@ -21,6 +11,8 @@ var dataSet = [
  'Licentiate seminar by Sandra Brüel Grönberg', 'Chalmers', '2023/03/28', '<a href="" target="_blank">Link</a>', '13.15' ],
 [
  'DRIVE SWEDEN LUNCH & LEARN: Vilken roll spelar 5G-nätet för smarta och hållbara transportlösningar?', 'Online', '2023/04/03', '<a href="https://sv-se.invajo.com/event/drivesweden/driveswedenlunchlearnvilkenrollspelar5gnatetforsmartaochhallbaratransportlosningar///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '12.00-13.00' ],
+[
+ 'Ghentrifiering av svenska städer – vad har det med transporteffektivitet att göra?', 'Göteborg + Online', '2023/04/19', '<a href="https://ui.ungpd.com/Events/90f26c4d-367c-4353-9486-a420e78c5b8a" target="_blank">Link</a>', '11.30 - 12.30 + mingel' ],
 [
  'PLAN-konferensen', 'Jönköping', '2023/04/25', '<a href="https://plan.se/plankonferensen-2023/program-2023/" target="_blank">Link</a>', '25-26 April' ],
 [
