@@ -2,8 +2,6 @@ var dataSet = [
 [
  'Journal of Retailing and Consumer Services', 'Elsevier', 'Designing Retail and Consumer Services for a Positive Societal and Citizenship Impact', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services/about/call-for-papers" target="_blank">Link</a>', '2022/11/01', '' ],
 [
- 'International Journal of Logistics Management', 'Emerald', 'Climate Neutral Supply Chains', '2023/03/16', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/climate-neutral-supply-chains" target="_blank">Link</a>', '2022/10/05', '' ],
-[
  'Business Process Management Journal', 'Emerald', 'Digital transformation of human resource management: Current status, perspectives, challenges, and opportunities', '2023/03/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
 [
  'Transportation Research Part C: Emerging Technologies', 'Elsevier', 'Innovative models and methods for managing transport logistics', '2023/03/31', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies/about/call-for-papers" target="_blank">Link</a>', '2023/01/20', '' ],
@@ -57,6 +55,8 @@ var dataSet = [
  'International Journal of Operations & Production Management', 'Emerald', 'Supply Chain Transparency: Opportunities, Challenges and Risks', '2023/08/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/supply-chain-transparency-opportunities-challenges-and-risks" target="_blank">Link</a>', '2022/09/07', '' ],
 [
  'International Journal of Physical Distribution & Logistics Management', 'Emerald', 'The Dark Side of e-Commerce Logistics: Challenges and Implications in the Last Mile', '2023/08/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/dark-side-e-commerce-logistics-challenges-and-implications-last-mile" target="_blank">Link</a>', '2022/12/12', '' ],
+[
+ 'JOM', '', 'Empirically Grounding Analytics (EGA) in Operations & Supply Chain Management', '2023/08/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20SI%20CfP--EGA%20in%20OSCM-1679343380967.pdf" target="_blank">Link</a>', '2023/03/21', '' ],
 [
  'Journal of Business Logistics', 'Wiley', 'Annual Review Issue: Past Accomplishments and Future Challenges within Supply Chain Management Research', '2023/09/01', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/21581592/2025%20JBL%20Annual%20Review%20Issue%20CFP-1677790717333.pdf" target="_blank">Link</a>', '2023/03/06', '' ],
 [
