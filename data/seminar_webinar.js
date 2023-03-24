@@ -4,8 +4,6 @@ var dataSet = [
 [
  'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April' ],
 [
- 'Net Zero in 2023 and beyond', 'Online', '2023/03/23', '<a href="https://www.eventbrite.com/e/net-zero-in-2023-and-beyond-tickets-518576374897" target="_blank">Link</a>', '12.00 GMT. Duration 1 hour. Alan McKinnon among the speakers.' ],
-[
  'Closer årskonferens', 'Göteborg, Stockholm, Online', '2023/03/28', '<a href="https://sv-se.invajo.com/event/closer/closerÅrskonferensÅrsmÖte2023///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '09.00-13.00' ],
 [
  'Licentiate seminar by Sandra Brüel Grönberg', 'Chalmers', '2023/03/28', '<a href="" target="_blank">Link</a>', '13.15' ],
