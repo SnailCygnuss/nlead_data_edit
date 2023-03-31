@@ -1,12 +1,6 @@
 var dataSet = [
 [
- 'Making packaging more sustainable: Effects of resource embeddedness', 'Chalmers +  online', '2023/03/28', '<a href="https://www.chalmers.se/en/current/calendar/tme-licentiate-seminar-sandra-brueel-gronberg/" target="_blank">Link</a>', '' ],
-[
  'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April' ],
-[
- 'Closer årskonferens', 'Göteborg, Stockholm, Online', '2023/03/28', '<a href="https://sv-se.invajo.com/event/closer/closerÅrskonferensÅrsmÖte2023///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '09.00-13.00' ],
-[
- 'Licentiate seminar by Sandra Brüel Grönberg', 'Chalmers', '2023/03/28', '<a href="" target="_blank">Link</a>', '13.15' ],
 [
  'DRIVE SWEDEN LUNCH & LEARN: Vilken roll spelar 5G-nätet för smarta och hållbara transportlösningar?', 'Online', '2023/04/03', '<a href="https://sv-se.invajo.com/event/drivesweden/driveswedenlunchlearnvilkenrollspelar5gnatetforsmartaochhallbaratransportlosningar///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '12.00-13.00' ],
 [
