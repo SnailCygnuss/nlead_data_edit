@@ -2,16 +2,6 @@ var dataSet = [
 [
  'Journal of Retailing and Consumer Services', 'Elsevier', 'Designing Retail and Consumer Services for a Positive Societal and Citizenship Impact', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services/about/call-for-papers" target="_blank">Link</a>', '2022/11/01', '' ],
 [
- 'Business Process Management Journal', 'Emerald', 'Digital transformation of human resource management: Current status, perspectives, challenges, and opportunities', '2023/03/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
-[
- 'Transportation Research Part C: Emerging Technologies', 'Elsevier', 'Innovative models and methods for managing transport logistics', '2023/03/31', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies/about/call-for-papers" target="_blank">Link</a>', '2023/01/20', '' ],
-[
- 'Research in Transportation Economics', 'Elsevier', 'Innovations in last mile logistics: towards inclusivity, resilience and sustainability', '2023/03/31', '<a href="https://www.journals.elsevier.com/research-in-transportation-economics/call-for-papers/call-for-papers-on-special-issue-innovations-in-last-mile-logistics-towards-inclusivity-resilience-and-sustainability" target="_blank">Link</a>', '2022/09/07', 'Extended deadline' ],
-[
- 'Journal of Operations Management', 'Wiley', 'The Operations and Supply Chains of Pharmaceutical Products', '2023/03/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Operations%20and%20Supply%20Chains%20of%20Pharmaceutical%20Products-1659977271683.pdf" target="_blank">Link</a>', '2022/09/07', '' ],
-[
- 'Annals of Operations Research', 'Springer', 'AI-based Decision Support Systems for Sustainable Business Management Under Circular Economy', '2023/03/31', '<a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/23194332/data/v2" target="_blank">Link</a>', '2022/09/07', '' ],
-[
  'Annals of Operations Research', 'Springer', 'Decision-Making Under Uncertainty: A Multidisciplinary Perspective', '2023/04/15', '<a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/23328178/data/v1" target="_blank">Link</a>', '2022/09/07', '' ],
 [
  'Production Planning and Control', 'Taylor & Francis', 'Success factors for Action Research on Operations Management: Can new (rigorous) knowledge be generated while solving a real (relevant) company problem?', '2023/04/15', '<a href="https://think.taylorandfrancis.com/special_issues/production-planning-control/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743&_gl=1*14cnmed*_ga*MTEyNzM0MTM3NS4xNjcxMzYwMTk2*_ga_0HYE8YG0M6*MTY3MTM2MDE5Ni4xLjEuMTY3MTM2MDcxMy4wLjAuMA..&_ga=2.259455242.1492841723.1671360196-1127341375.1671360196" target="_blank">Link</a>', '2022/12/18', '' ],
@@ -35,6 +25,8 @@ var dataSet = [
  'International Journal of Production Research', 'Taylor & Francis', 'Design and management of energy-efficient and energy-resilient supply chains', '2023/05/31', '<a href="https://www.callforpapers.co.uk/energy-efficient-resilient-supply-chains" target="_blank">Link</a>', '2022/12/12', '' ],
 [
  'Journal of Operations Management', 'Wiley', 'Innovations, Technologies, and the Economics of Last-Mile Operations', '2023/05/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Innovations%20Technologies%20and%20the%20Economics%20of%20Last-Mile%20Operations-1659977271580.pdf" target="_blank">Link</a>', '2022/09/07', '' ],
+[
+ 'International Journal of Operations & Production Management', 'Emerald', 'Gfrom supply chain learning to the learning supply chain: drivers, processes, governance, trade-offs, complexities and challenges', '2023/05/31', '<a href="" target="_blank">Link</a>', '2023/03/24', '' ],
 [
  'Business Process Management Journal', 'Emerald', 'Driving ESG performance through Artificial Intelligence-enhanced business process optimisation', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/driving-esg-performance-through-artificial-intelligence-enhanced-business-process" target="_blank">Link</a>', '2023/03/06', '' ],
 [

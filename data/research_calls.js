@@ -1,13 +1,5 @@
 var dataSet = [
 [
- 'Vinnov FFI', 'Circularity', '2023/03/28', '', '<a href="https://www.vinnova.se/e/utlysning-2022-00048/cirkularitet-ffi-varen-2023/" target="_blank">Link</a>', '' ],
-[
- 'Vinnov FFI', 'Transport and mobility services', '2023/03/28', '', '<a href="https://www.vinnova.se/e/transport-och-mobilitetstjanster-ffi/transport-och-mobilitetstjanster-2022-02746/" target="_blank">Link</a>', '' ],
-[
- 'TripleF', 'Triple F:s utlysning för strategiska projekt', '2023/03/31', '', '<a href="https://triplef.lindholmen.se/nyheter/triple-fs-utlysning-strategiska-projekt-nu-oppen" target="_blank">Link</a>', '' ],
-[
- 'Swedish Electromobility Centre', 'Projects Spring 2023', '2023/03/31', 'A wide range of themes on electromobility', '<a href="https://emobilitycentre.se/call-for-projects-spring-2023/" target="_blank">Link</a>', '' ],
-[
  'Energimyndigheten', 'Större pilot- och demonstrationsprojekt för energi- och klimatomställning 2023', '2023/04/11', '', '<a href="https://www.energimyndigheten.se/utlysningar/storre-pilot-och-demonstrationsprojekt-for-energi--och-klimatomstallning-2023/" target="_blank">Link</a>', '' ],
 [
  'AoA Transport', 'Collaborative projects and Seed projects', '2023/04/21', '', '<a href="https://cdn.ungpd.com/df30ef0e-4e73-4b4f-aa38-1b20786845f1/Documents/call-2023.pdf" target="_blank">Link</a>', '' ],
