@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Journal of Retailing and Consumer Services', 'Elsevier', 'Designing Retail and Consumer Services for a Positive Societal and Citizenship Impact', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services/about/call-for-papers" target="_blank">Link</a>', '2022/11/01', '' ],
-[
  'Annals of Operations Research', 'Springer', 'Decision-Making Under Uncertainty: A Multidisciplinary Perspective', '2023/04/15', '<a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/23328178/data/v1" target="_blank">Link</a>', '2022/09/07', '' ],
 [
  'Production Planning and Control', 'Taylor & Francis', 'Success factors for Action Research on Operations Management: Can new (rigorous) knowledge be generated while solving a real (relevant) company problem?', '2023/04/15', '<a href="https://think.taylorandfrancis.com/special_issues/production-planning-control/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743&_gl=1*14cnmed*_ga*MTEyNzM0MTM3NS4xNjcxMzYwMTk2*_ga_0HYE8YG0M6*MTY3MTM2MDE5Ni4xLjEuMTY3MTM2MDcxMy4wLjAuMA..&_ga=2.259455242.1492841723.1671360196-1127341375.1671360196" target="_blank">Link</a>', '2022/12/18', '' ],
@@ -18,6 +16,10 @@ var dataSet = [
 [
  'Production Planning and Control', 'Taylor & Francis', 'Machine Learning Methods for Cloud Based IOT Applications for Manufacturing', '2023/05/25', '<a href="https://www.callforpapers.co.uk/machine-learning-iot-manufacturing" target="_blank">Link</a>', '2022/12/18', '' ],
 [
+ 'International Journal of Production Research', 'Taylor & Francis', 'Production Optimization in Carbon Reduction Engineering Management', '2023/05/31', '<a href="https://think.taylorandfrancis.com/special_issues/international-journal-production-research/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Link</a>', '2022/09/26', '' ],
+[
+ 'Journal of Operations Management', 'Wiley', 'The Operations and Supply Chains of Pharmaceutical Products', '2023/05/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Operations%20and%20Supply%20Chains%20of%20Pharmaceutical%20Products-1659977271683.pdf" target="_blank">Link</a>', '2022/09/07', 'Extended deadline' ],
+[
  'International Journal of Physical Distribution & Logistics Management', 'Emerald', 'Advances in research methodologies for logistics and supply chain management', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/advances-research-methodologies-logistics-and-supply-chain-management" target="_blank">Link</a>', '2022/08/05', '' ],
 [
  'Journal of Cleaner Production', 'Elsevier', 'Consumer role in product end-of-life return: challenges and opportunities for circular supply chains', '2023/05/31', '<a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production/about/call-for-papers" target="_blank">Link</a>', '2022/12/17', '' ],
@@ -29,6 +31,10 @@ var dataSet = [
  'International Journal of Operations & Production Management', 'Emerald', 'Gfrom supply chain learning to the learning supply chain: drivers, processes, governance, trade-offs, complexities and challenges', '2023/05/31', '<a href="" target="_blank">Link</a>', '2023/03/24', '' ],
 [
  'Business Process Management Journal', 'Emerald', 'Driving ESG performance through Artificial Intelligence-enhanced business process optimisation', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/driving-esg-performance-through-artificial-intelligence-enhanced-business-process" target="_blank">Link</a>', '2023/03/06', '' ],
+[
+ 'Business Process Management Journal', 'Emerald', 'Digital transformation of human resource management: Current status, perspectives, challenges, and opportunities', '2023/06/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
+[
+ 'Journal of Retailing and Consumer Services', 'Elsevier', 'Designing Retail and Consumer Services for a Positive Societal and Citizenship Impact', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services/about/call-for-papers" target="_blank">Link</a>', '2022/11/01', '' ],
 [
  'International Journal of Operations & Production Management', 'Emerald', 'Toward a paradigm shift within global supply chains: From ‘sustainability’ rhetoric to transformative action for environmental and social justice', '2023/06/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/toward-a-paradigm-shift-within-global-supply-chains-sustainability-rhetoric" target="_blank">Link</a>', '2022/09/07', '' ],
 [
@@ -67,6 +73,8 @@ var dataSet = [
  'Annals of Operations Research', 'Springer', 'OR Applications for Resource Efficient and Climate Change Driven Issues in Digital Sustainable and Circular Supply Chains', '2023/12/31', '<a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/20203804/data/v2" target="_blank">Link</a>', '2022/09/07', '' ],
 [
  'International Journal of Production Economics', 'Elsevier', 'Data-driven Digital Transformation in Operations and Supply Chain Management', '2024/01/20', '<a href="https://www.sciencedirect.com/journal/international-journal-of-production-economics/about/call-for-papers" target="_blank">Link</a>', '2023/01/20', '' ],
+[
+ 'Journal of Purchasing & Supply Management', 'Elsevier', 'Purchasing and Supply Management Education', '2024/01/31', '<a href="https://www.sciencedirect.com/journal/journal-of-purchasing-and-supply-management/about/call-for-papers#purchasing-and-supply-management-education" target="_blank">Link</a>', '2023/03/31', '' ],
 [
  'International Journal of Production Research', 'Taylor & Francis', 'Multistakeholder Production and Logistics Management through Blockchain Technology Applications', '2024/02/29', '<a href="https://www.callforpapers.co.uk/blockchain-applications" target="_blank">Link</a>', '2023/03/06', '' ],
 ];
