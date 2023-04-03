@@ -2,7 +2,7 @@ var dataSet = [
 [
  'TRB workshop on Building More Resilient Supply Chains', 'Washington DC', '2023/04/11', '<a href="https://trb.secure-platform.com/a/page/supply_chains" target="_blank">Link</a>', '11–12 April' ],
 [
- 'DRIVE SWEDEN LUNCH & LEARN: Vilken roll spelar 5G-nätet för smarta och hållbara transportlösningar?', 'Online', '2023/04/03', '<a href="https://sv-se.invajo.com/event/drivesweden/driveswedenlunchlearnvilkenrollspelar5gnatetforsmartaochhallbaratransportlosningar///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '12.00-13.00' ],
+ 'Breakfast insights seminar - Collaborative Urban Logistics and Transport', 'Online', '2023/04/18', '<a href="https://sv-se.invajo.com/event/closer/breakfastinsightsseminarcollaborativeurbanlogisticsandtransport///invite?utm_campaign=event_invitation&utm_source=email&utm_medium=email" target="_blank">Link</a>', '08.00-09.00' ],
 [
  'Ghentrifiering av svenska städer – vad har det med transporteffektivitet att göra?', 'Göteborg + Online', '2023/04/19', '<a href="https://ui.ungpd.com/Events/90f26c4d-367c-4353-9486-a420e78c5b8a" target="_blank">Link</a>', '11.30 - 12.30 + mingel' ],
 [

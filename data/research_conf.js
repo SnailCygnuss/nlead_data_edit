@@ -10,8 +10,6 @@ var dataSet = [
 [
  'the 25th International Transport and Air Pollution and 3rd Shipping and Environment Conference​ (TAP&SE)', 'Gothenburg, Sweden', '2023/09/25', '2022/02/24', '<a href="https://www.ivl.se/english/ivl/project/joint-tap-and-se-conference.html" target="_blank">Link</a>', '' ],
 [
- 'IPSERA 2023', 'Barcelona', '2023/04/02', '2022/12/16', '<a href="https://ipsera2023.com" target="_blank">Link</a>', '2-5 May 2023' ],
-[
  'ITS European Conference', 'Lisbon, Portugal', '2023/05/22', '2023/01/20', '<a href="https://itseuropeancongress.com" target="_blank">Link</a>', '' ],
 [
  '13rd European Decision Sciences Conference', 'Nantes', '2023/06/04', '2023/01/20', '<a href="https://edsi.decisionsciences.org/conference/" target="_blank">Link</a>', '4-7 June' ],
