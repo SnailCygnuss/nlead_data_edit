@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Energimyndigheten', 'Större pilot- och demonstrationsprojekt för energi- och klimatomställning 2023', '2023/04/11', '', '<a href="https://www.energimyndigheten.se/utlysningar/storre-pilot-och-demonstrationsprojekt-for-energi--och-klimatomstallning-2023/" target="_blank">Link</a>', '' ],
-[
  'AoA Transport', 'Collaborative projects and Seed projects', '2023/04/21', '', '<a href="https://cdn.ungpd.com/df30ef0e-4e73-4b4f-aa38-1b20786845f1/Documents/call-2023.pdf" target="_blank">Link</a>', '' ],
 [
  'Vinnova - Drive Sweden', 'Säker och hållbar användning av små fordon med hjälp av digital teknik', '2023/05/03', '', '<a href="https://www.vinnova.se/e/strategiska-innovationsprogrammet-drive-sweden/strategiska-innovationsprogrammet-drive-2022-03801/" target="_blank">Link</a>', '' ],
