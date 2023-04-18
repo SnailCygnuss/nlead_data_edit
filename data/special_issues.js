@@ -1,9 +1,5 @@
 var dataSet = [
 [
- 'Annals of Operations Research', 'Springer', 'Decision-Making Under Uncertainty: A Multidisciplinary Perspective', '2023/04/15', '<a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/23328178/data/v1" target="_blank">Link</a>', '2022/09/07', '' ],
-[
- 'Production Planning and Control', 'Taylor & Francis', 'Success factors for Action Research on Operations Management: Can new (rigorous) knowledge be generated while solving a real (relevant) company problem?', '2023/04/15', '<a href="https://think.taylorandfrancis.com/special_issues/production-planning-control/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743&_gl=1*14cnmed*_ga*MTEyNzM0MTM3NS4xNjcxMzYwMTk2*_ga_0HYE8YG0M6*MTY3MTM2MDE5Ni4xLjEuMTY3MTM2MDcxMy4wLjAuMA..&_ga=2.259455242.1492841723.1671360196-1127341375.1671360196" target="_blank">Link</a>', '2022/12/18', '' ],
-[
  'Journal of Global Operations and Strategic Sourcing', 'Emerald', 'Global supply chain transformation using digital technologies in the post-pandemic era', '2023/04/23', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/global-supply-chain-transformation-using-digital-technologies-post-pandemic-era" target="_blank">Link</a>', '2022/12/17', '' ],
 [
  'Journal of Global Operations and Strategic Sourcing', 'Emerald', 'Supply chain transformation using digital technologies in the post-pandemic era', '2023/04/24', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/supply-chain-transformation-using-digital-technologies-post-pandemic-era" target="_blank">Link</a>', '2022/10/05', '' ],
@@ -28,7 +24,7 @@ var dataSet = [
 [
  'Journal of Operations Management', 'Wiley', 'Innovations, Technologies, and the Economics of Last-Mile Operations', '2023/05/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Innovations%20Technologies%20and%20the%20Economics%20of%20Last-Mile%20Operations-1659977271580.pdf" target="_blank">Link</a>', '2022/09/07', '' ],
 [
- 'International Journal of Operations & Production Management', 'Emerald', 'Gfrom supply chain learning to the learning supply chain: drivers, processes, governance, trade-offs, complexities and challenges', '2023/05/31', '<a href="" target="_blank">Link</a>', '2023/03/24', '' ],
+ 'International Journal of Operations & Production Management', 'Emerald', 'From supply chain learning to the learning supply chain: drivers, processes, governance, trade-offs, complexities and challenges', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/supply-chain-learning-learning-supply-chain-drivers-processes-governance-trade" target="_blank">Link</a>', '2023/03/24', '' ],
 [
  'Business Process Management Journal', 'Emerald', 'Driving ESG performance through Artificial Intelligence-enhanced business process optimisation', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/driving-esg-performance-through-artificial-intelligence-enhanced-business-process" target="_blank">Link</a>', '2023/03/06', '' ],
 [
