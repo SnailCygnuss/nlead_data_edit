@@ -1,15 +1,5 @@
 var dataSet = [
 [
- 'Journal of Global Operations and Strategic Sourcing', 'Emerald', 'Global supply chain transformation using digital technologies in the post-pandemic era', '2023/04/23', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/global-supply-chain-transformation-using-digital-technologies-post-pandemic-era" target="_blank">Link</a>', '2022/12/17', '' ],
-[
- 'Journal of Global Operations and Strategic Sourcing', 'Emerald', 'Supply chain transformation using digital technologies in the post-pandemic era', '2023/04/24', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/supply-chain-transformation-using-digital-technologies-post-pandemic-era" target="_blank">Link</a>', '2022/10/05', '' ],
-[
- 'Journal of Purchasing & Supply Management', 'Elsevier', 'The role of purchasing and supply management in the quest towards a circular economy', '2023/04/30', '<a href="https://www.journals.elsevier.com/journal-of-purchasing-and-supply-management/call-for-papers/the-role-of-purchasing-and-supply-management-in-the-quest-towards-a-circular-economy" target="_blank">Link</a>', '2022/12/13', '' ],
-[
- 'International Journal of Operations & Production Management', 'Emerald', 'Beyond Industry 4.0 – Integrating Lean, Digital Technologies and People', '2023/04/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/beyond-industry-40-integrating-lean-digital-technologies-and-people" target="_blank">Link</a>', '2022/09/07', '' ],
-[
- 'Transportation Research Part C: Emerging Technologies', 'Elsevier', 'Applications of artificial intelligence, computer vision, physics and econometrics modelling methods in pedestrian traffic modelling and crowd safety', '2023/04/30', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies/about/call-for-papers" target="_blank">Link</a>', '2022/12/18', '' ],
-[
  'Production Planning and Control', 'Taylor & Francis', 'Machine Learning Methods for Cloud Based IOT Applications for Manufacturing', '2023/05/25', '<a href="https://www.callforpapers.co.uk/machine-learning-iot-manufacturing" target="_blank">Link</a>', '2022/12/18', '' ],
 [
  'International Journal of Production Research', 'Taylor & Francis', 'Production Optimization in Carbon Reduction Engineering Management', '2023/05/31', '<a href="https://think.taylorandfrancis.com/special_issues/international-journal-production-research/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Link</a>', '2022/09/26', '' ],
