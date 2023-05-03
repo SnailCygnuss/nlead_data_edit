@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Vinnova - Drive Sweden', 'Säker och hållbar användning av små fordon med hjälp av digital teknik', '2023/05/03', '', '<a href="https://www.vinnova.se/e/strategiska-innovationsprogrammet-drive-sweden/strategiska-innovationsprogrammet-drive-2022-03801/" target="_blank">Link</a>', '' ],
-[
  'CMB', '', '2023/05/22', '', '<a href="https://www.cmb-chalmers.se/kunskapskultivering/forskningsfinansiering/" target="_blank">Link</a>', '' ],
 [
  'Trafikverket', 'Forsknings- och innovationsförslag', '2023/09/15', '', '<a href="https://bransch.trafikverket.se/for-dig-i-branschen/forskning-och-innovation/lamna-forslag-pa-forskning/" target="_blank">Link</a>', '' ],
