@@ -1,8 +1,4 @@
 var dataSet = [
 [
- 'Klusterkonferensen', 'Södertälje', '2023/05/09', '<a href="https://comm.ri.se/b/v?event=1695&ucrc=2899E7D3FC&r=234566&rcrc=1CC17DAB" target="_blank">Link</a>', '9-10 May' ],
-[
- 'ITS European Congress', 'Lisbon', '2023/05/22', '<a href="https://erticonetwork.com/event/its-european-congress-the-game-changer/" target="_blank">Link</a>', '' ],
-[
- 'AoA Production initiative seminar - Production of batteries and battery technology systems', 'Göteborg', '2023/05/23', '<a href="" target="_blank">Link</a>', '' ],
+ 'Shipping and Trade Alliance for Research (STAR) Forum', 'Online', '2024/05/22', '<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=YPc3j4exgUm4L-Xcb1vPRJ1F201npS9JqL2uNve16xtUMTNMVE9QUFNRRzFRV0RYQlhZNzRYU0o5VS4u" target="_blank">Link</a>', 'Submit by 31 December 2023' ],
 ];
