@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'CMB', '', '2023/05/22', '', '<a href="https://www.cmb-chalmers.se/kunskapskultivering/forskningsfinansiering/" target="_blank">Link</a>', '' ],
-[
  'Trafikverket', 'Forsknings- och innovationsförslag', '2023/09/15', '', '<a href="https://bransch.trafikverket.se/for-dig-i-branschen/forskning-och-innovation/lamna-forslag-pa-forskning/" target="_blank">Link</a>', '' ],
 [
  'CMB', '', '2023/11/17', '', '<a href="https://www.cmb-chalmers.se/kunskapskultivering/forskningsfinansiering/" target="_blank">Link</a>', '' ],

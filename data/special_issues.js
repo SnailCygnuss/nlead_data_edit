@@ -1,41 +1,5 @@
 var dataSet = [
 [
- 'Production Planning and Control', 'Taylor & Francis', 'Machine Learning Methods for Cloud Based IOT Applications for Manufacturing', '2023/05/25', '<a href="https://www.callforpapers.co.uk/machine-learning-iot-manufacturing" target="_blank">Link</a>', '2022/12/18', '' ],
-[
- 'International Journal of Production Research', 'Taylor & Francis', 'Production Optimization in Carbon Reduction Engineering Management', '2023/05/31', '<a href="https://think.taylorandfrancis.com/special_issues/international-journal-production-research/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Link</a>', '2022/09/26', '' ],
-[
- 'Journal of Operations Management', 'Wiley', 'The Operations and Supply Chains of Pharmaceutical Products', '2023/05/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Operations%20and%20Supply%20Chains%20of%20Pharmaceutical%20Products-1659977271683.pdf" target="_blank">Link</a>', '2022/09/07', 'Extended deadline' ],
-[
- 'International Journal of Physical Distribution & Logistics Management', 'Emerald', 'Advances in research methodologies for logistics and supply chain management', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/advances-research-methodologies-logistics-and-supply-chain-management" target="_blank">Link</a>', '2022/08/05', '' ],
-[
- 'Journal of Cleaner Production', 'Elsevier', 'Consumer role in product end-of-life return: challenges and opportunities for circular supply chains', '2023/05/31', '<a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production/about/call-for-papers" target="_blank">Link</a>', '2022/12/17', '' ],
-[
- 'International Journal of Production Research', 'Taylor & Francis', 'Design and management of energy-efficient and energy-resilient supply chains', '2023/05/31', '<a href="https://www.callforpapers.co.uk/energy-efficient-resilient-supply-chains" target="_blank">Link</a>', '2022/12/12', '' ],
-[
- 'Journal of Operations Management', 'Wiley', 'Innovations, Technologies, and the Economics of Last-Mile Operations', '2023/05/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Innovations%20Technologies%20and%20the%20Economics%20of%20Last-Mile%20Operations-1659977271580.pdf" target="_blank">Link</a>', '2022/09/07', '' ],
-[
- 'International Journal of Operations & Production Management', 'Emerald', 'From supply chain learning to the learning supply chain: drivers, processes, governance, trade-offs, complexities and challenges', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/supply-chain-learning-learning-supply-chain-drivers-processes-governance-trade" target="_blank">Link</a>', '2023/03/24', '' ],
-[
- 'Business Process Management Journal', 'Emerald', 'Driving ESG performance through Artificial Intelligence-enhanced business process optimisation', '2023/05/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/driving-esg-performance-through-artificial-intelligence-enhanced-business-process" target="_blank">Link</a>', '2023/03/06', '' ],
-[
- 'Business Process Management Journal', 'Emerald', 'Digital transformation of human resource management: Current status, perspectives, challenges, and opportunities', '2023/06/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/digital-transformation-human-resource-management-current-status-perspectives" target="_blank">Link</a>', '2023/01/23', '' ],
-[
- 'Journal of Retailing and Consumer Services', 'Elsevier', 'Designing Retail and Consumer Services for a Positive Societal and Citizenship Impact', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services/about/call-for-papers" target="_blank">Link</a>', '2022/11/01', '' ],
-[
- 'International Journal of Operations & Production Management', 'Emerald', 'Toward a paradigm shift within global supply chains: From ‘sustainability’ rhetoric to transformative action for environmental and social justice', '2023/06/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/toward-a-paradigm-shift-within-global-supply-chains-sustainability-rhetoric" target="_blank">Link</a>', '2022/09/07', '' ],
-[
- 'Production Planning and Control', 'Taylor & Francis', 'Innovative approaches in reshaping the Supply Chain for societal challenges', '2023/06/30', '<a href="https://think.taylorandfrancis.com/special_issues/reshaping-supply-chain-societal-challenges/" target="_blank">Link</a>', '2022/12/18', '' ],
-[
- 'Journal of Cleaner Prpduction', 'Elsevier', 'Sustainable servitization for a resource-wise manufacturing', '2023/06/30', '<a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production/about/call-for-papers" target="_blank">Link</a>', '', '' ],
-[
- 'Journal of Enterprise Information Management', 'Emerald', 'AHP/ANP in supply chain resilience in the era of digital enterprise', '2023/06/30', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/ahpanp-supply-chain-resilience-era-digital-enterprise" target="_blank">Link</a>', '2022/12/18', '' ],
-[
- 'Transportation research part E: Logistics and transportation review', 'Elsevier', 'AI Driven Logistics, Operations and Business Analytics: Challenges and Opportunities', '2023/07/30', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers" target="_blank">Link</a>', '2022/12/17', '' ],
-[
- 'Journal of Operations Management', 'Wiley', 'Sustainable Agriculture and Supply Chains', '2023/07/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20CFP%20-%20Sustainable%20Agriculture%20and%20Supply%20Chains-1659977272843.pdf" target="_blank">Link</a>', '2022/10/13', '' ],
-[
- 'International Journal of Production Research', 'Taylor & Francis', 'Stress Tests for Supply Chains: Towards Viable Supply Chain Designs', '2023/07/31', '<a href="https://www.callforpapers.co.uk/stress-tests-for-supply-chains" target="_blank">Link</a>', '2023/03/06', '' ],
-[
  'International Journal of Operations & Production Management', 'Emerald', 'Supply Chain Transparency: Opportunities, Challenges and Risks', '2023/08/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/supply-chain-transparency-opportunities-challenges-and-risks" target="_blank">Link</a>', '2022/09/07', '' ],
 [
  'International Journal of Physical Distribution & Logistics Management', 'Emerald', 'The Dark Side of e-Commerce Logistics: Challenges and Implications in the Last Mile', '2023/08/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/dark-side-e-commerce-logistics-challenges-and-implications-last-mile" target="_blank">Link</a>', '2022/12/12', '' ],
