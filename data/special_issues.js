@@ -65,4 +65,16 @@ var dataSet = [
  'International Journal of Production Research', 'Taylor & Francis', 'Carbon trade finance: a perspective of supply chain management', '2024/03/31', '<a href="https://www.callforpapers.co.uk/carbon-trade-finance" target="_blank">Link</a>', '2023/08/30', '' ],
 [
  'Journal of Operations Management', 'Wiley', 'Emerging Technologies in Healthcare', '2024/03/31', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/18731317/JOM%20SI%20-%20Emerging%20Techs%20in%20Healthcare%20-%20CfP%20(1).pdf" target="_blank">Link</a>', '2023/08/30', '' ],
+[
+ 'Journal of Purchasing and Supply Management', 'Elsevier', 'Digitalization for Sustainable Purchasing and Supply Chain Management', '2024/03/31', '<a href="https://www.sciencedirect.com/journal/journal-of-purchasing-and-supply-management/about/call-for-papers" target="_blank">Link</a>', '2023/08/30', '' ],
+[
+ 'Transportation Research Part E: Logistics and Transportation Review', 'Elsevier', 'Intelligent Disaster Management: Integrated Emergency Logistics and Operations Systems', '2024/07/01', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers#intelligent-disaster-management-integrated-emergency-logistics-and-operations-systems" target="_blank">Link</a>', '2023/08/30', '' ],
+[
+ 'International Journal of Production Research', 'Taylor & Francis', 'Sustainable manufacturing using Zero Defect Manufacturing', '2024/09/01', '<a href="https://www.callforpapers.co.uk/ijpr-zdm" target="_blank">Link</a>', '2023/08/30', '' ],
+[
+ 'International Journal of Production Economics', 'Elsevier', 'Sustainable semi-conductor supply chain under industrial disruption: Risk and resilience concerns', '2024/06/01', '<a href="https://www.sciencedirect.com/journal/international-journal-of-production-economics/about/call-for-papers" target="_blank">Link</a>', '2023/08/30', '' ],
+[
+ 'Transportation Research Part E: Logistics and Transportation Review', 'Elsevier', 'New norms of global logistics and supply chain management', '2024/06/01', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers#new-norms-of-global-logistics-and-supply-chain-management" target="_blank">Link</a>', '2023/08/30', '' ],
+[
+ 'Transportation Research Part E: Logistics and Transportation Review', 'Elsevier', 'Learning based Solution Techniques for Optimization in Logistics and Transportation Systems', '2024/06/01', '<a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers" target="_blank">Link</a>', '2023/08/30', '' ],
 ];
