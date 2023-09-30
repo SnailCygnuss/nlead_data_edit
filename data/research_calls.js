@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Trafikverket', 'Forsknings- och innovationsförslag', '2023/09/15', '', '<a href="https://bransch.trafikverket.se/for-dig-i-branschen/forskning-och-innovation/lamna-forslag-pa-forskning/" target="_blank">Link</a>', '' ],
-[
  'CMB', '', '2023/11/17', '', '<a href="https://www.cmb-chalmers.se/kunskapskultivering/forskningsfinansiering/" target="_blank">Link</a>', '' ],
 [
  'VGR', 'Bidrag miljöprojekt', 'Löpande', 'Stöd är värt SEK 300,000 och uppgår till maximalt 50 procent av projektens totala kostnad. Regiongemensamt intresse. Ska ha anknytning till tillväxt och utvecklingsstrategi i Västra Götaland 2020.', '<a href="http://www.vgregion.se/sv/Vastra-Gotalandsregionen/startsida/Miljo/Bidrag-till-miljoprojekt/Riktlinjer-for-miljoprojekt/" target="_blank">Link</a>', '' ],
