@@ -1,7 +1,5 @@
 var dataSet = [
 [
- 'Journal of Business Logistics', 'Wiley', 'Supply Chain Finance & Digital Technologies: Taking a Proactive Perspective', '2023/10/01', '<a href="https://onlinelibrary.wiley.com/pb-assets/assets/21581592/SC%20Finance%20CFP-1690487929033.pdf" target="_blank">Link</a>', '2023/08/30', '' ],
-[
  'International Journal of Lean Six Sigma', 'Emerald', 'Operational Excellence and Quality Improvement in Sweden', '2023/10/27', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/operational-excellence-and-quality-improvement-sweden" target="_blank">Link</a>', '2023/03/06', '' ],
 [
  'Journal of Knowledge Management', 'Emerald', 'Managing Knowledge Across Borders: Technologies, Markets, and Institutions', '2023/10/31', '<a href="https://www.emeraldgrouppublishing.com/calls-for-papers/managing-knowledge-across-borders-technologies-markets-and-institutions" target="_blank">Link</a>', '2022/12/12', '' ],
